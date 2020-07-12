@@ -1,0 +1,13 @@
+.btn-pink { 
+	background-color: #ff006e;
+	color: white;
+	padding: 8px 8px;
+	border-radius: 4px;
+	font-family: 'Berkshire Swash', cursive;
+  font-weight: bold;
+}
+
+.btn-pink:hover {
+	background-color: #00b4d8;
+	color: white;
+}
